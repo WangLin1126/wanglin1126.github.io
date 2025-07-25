@@ -1,16 +1,16 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Outstanding Graduates of Zhejiang Province and Zhejiang University, 2025
 
-- National Scholarship for Graduate Student, 2024.
+- National Scholarship Oct. 2024 
 
-- First-Prize Scholarship (CUMT), 2024.
+- First Prize, Mathematics Competition for College Students, China Nov. 2023 & Nov. 2022 
 
-- First-Prize Scholarship (CUMT), 2023.
+- Ling Jun Investment Corporation Scholarship Oct. 2023 
 
-- Freshman Scholarship (CUMT), 2022.
+- Zhejiang Provincial Government Scholarship Oct. 2022 
 
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
+- First Prize, Mathematics Competition, Zhejiang Province Oct. 2022 
 
-- First-Prize Enterprise Scholarship (CUMT), 2020.
+- Second Prize, Physics Innovation Competition, Zhejiang Province Feb. 2023 
 
-- First-Prize Scholarship (CUMT), 2019.
+- Winning Prize, Mathematical Contest in Modeling, Zhejiang University May. 2023
