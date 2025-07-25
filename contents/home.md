@@ -6,12 +6,14 @@ He is currently a PhD student in the Department of Mathematics at National Unive
 
 #### Contact
 
-Email: wang_lin[at]u.nus.edu
+Email: [wang_lin[at]u.nus.edu](wang_lin@u.nus.edu)
 
 #### Education
-Ph.D., Mathematics, National University at Singapore, 2025—Present.
+- Ph.D., Mathematics, National University at Singapore, 2025—Present.
 
-B.S., Mathematics and Applied Mathematics, Zhejiang University, 2021—2025.
+
+- B.S., Mathematics and Applied Mathematics, Zhejiang University, 2021—2025.
+
 
 #### Research Interests
 Deep Learning, Time Series Model.
