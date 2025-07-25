@@ -9,7 +9,7 @@ He is currently a PhD student in the Department of Mathematics at National Unive
 Email: wang_lin[at]u.nus.edu
 
 #### Education
-Ph.D., Mathematics, National University at Singapore, 2025—Present.\
+Ph.D., Mathematics, National University at Singapore, 2025—Present.
 
 B.S., Mathematics and Applied Mathematics, Zhejiang University, 2021—2025.
 
