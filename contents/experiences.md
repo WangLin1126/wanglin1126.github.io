@@ -1,1 +1,1 @@
-Quantitative Research Intern
+Quantitative Intern, Yuan He, Hang Zhou. 2024 & 2025. [[Slides]](https://github.com/WangLin1126/wanglin1126.github.io/blob/main/static/assets/file/0718.pdf)
