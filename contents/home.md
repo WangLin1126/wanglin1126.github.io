@@ -1,6 +1,6 @@
 
 
-[![WangLin1126](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/WangLin1126)
+[![WangLin1126](https://img.shields.io/badge/Lin_Wang-github-blue?logo=github)](https://github.com/WangLin1126)
 
 He is currently a PhD student in the Department of Mathematics at National University at Singapore.
 
