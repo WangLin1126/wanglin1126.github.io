@@ -1,6 +1,6 @@
 
 
-[![WangLin1126](https://img.shields.io/badge/Lin_Wang-github-blue?logo=github)](https://github.com/WangLin1126) [CV](https://github.com/WangLin1126/wanglin1126.github.io/blob/main/static/assets/file/Lin_Wang_Academic_CV.pdf)
+[![WangLin1126](https://img.shields.io/badge/Lin_Wang-github-blue?logo=github)](https://github.com/WangLin1126)    [CV](https://github.com/WangLin1126/wanglin1126.github.io/blob/main/static/assets/file/Lin_Wang_Academic_CV.pdf)
 
 He is currently a PhD student in the Department of Mathematics at NUS.
 
